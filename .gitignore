@@ -2,3 +2,5 @@
 src
 pkg
 go.sum
+config.yaml
+storage/logs
